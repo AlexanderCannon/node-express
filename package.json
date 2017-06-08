@@ -4,6 +4,7 @@
   "description": "",
   "main": "server.js",
   "dependencies": {
+    "axios": "^0.16.2",
     "express": "^4.15.3",
     "hbs": "^4.0.1"
   },
